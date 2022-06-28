@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    max-height: 100vh;
+}
+
+section {
+    display: flex;
+    border: 1px solid;
+}
+
+.button {
+    background-color: #9e7ee9;
+    color: white;
+    height: 35px;
+    width: 180px;
+    border: 0px;
+}
+
+.msn {
+    display: flex;
+    padding: 15px;
+    border-top: 1px solid;
+}
+
+.fotos {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.logo {
+    width: 300;
+    height: 250px;
+    border-radius: 10%;
+}
+
+.main {
+    background-color: rgb(247, 245, 245);
+}
